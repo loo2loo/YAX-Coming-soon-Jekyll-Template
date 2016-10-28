@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
+title: "Loo2loo.com"
 description: "A Coming Soon Template"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
-author: 
+author: Minhaj & Yulay
 
 #Target date in UTC / GMT
 countdown:
@@ -18,14 +18,14 @@ countdown:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Minhaj and Yulay
+  email: minhaj.kk+loo2loo@gmail.com
+  twitter: minhajkk
   google-plus:
   instagramm:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
-    url:
+    url: http://minhaj.io/
     caption:
 
 
