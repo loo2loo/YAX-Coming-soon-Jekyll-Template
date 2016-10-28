@@ -4,5 +4,4 @@ permalink: /
 title: "Loo2Loo.com"
 excerpt: "Coming Soon"
 ---
-# An app for poomunity 
-coming soon
+# Mobile app for poomunity...Coming soon

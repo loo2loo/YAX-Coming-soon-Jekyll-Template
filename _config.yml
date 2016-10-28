@@ -26,7 +26,7 @@ owner:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
     url: http://minhaj.io/
-    caption:
+    caption: Contact
 
 
 # Jekyll configuration
